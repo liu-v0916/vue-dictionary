@@ -31,3 +31,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 接口
 
 https://dictionaryapi.dev/
+
+### 线上地址
+
+https://liu-v0916.github.io/vue-dictionary/
